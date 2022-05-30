@@ -11,7 +11,7 @@ volumes and files in criminal investigations.
 
 ## Which tools are integrated in GovCracker? ##
 
-([https://user-images.githubusercontent.com/73139495/170981613-e6b2c39e-9c20-4871-ad1d-5dd06bda9e4e.jpg])
+![Screenshot](https://user-images.githubusercontent.com/73139495/170981613-e6b2c39e-9c20-4871-ad1d-5dd06bda9e4e.jpg?raw=true "Title")
 
 **Hashcat** - Hashcat is the most popular and effective password cracker in the world. 
 It is used by law enforcement agencies, secret services and the military, as well as 
@@ -20,7 +20,7 @@ penetration testers in the software industry.
 
 ## Which tools are integrated in GovTools? ##
 
-([https://user-images.githubusercontent.com/73139495/170981632-97cd2ff6-cf4e-4b17-9094-f6de400f1ef5.jpg])
+![Screenshot](https://user-images.githubusercontent.com/73139495/170981632-97cd2ff6-cf4e-4b17-9094-f6de400f1ef5.jpg)
 
 **John the Ripper** - JtR is a password cracker originally developed for UNIX-based 
 systems and first released in 1996. JtR includes a variety of tools for extracting 
