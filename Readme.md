@@ -39,7 +39,7 @@ external links, and returns a list of words which can then be used for password 
 
 ## Installation ##
 
-Download the latest release (include GovTools and GovCracker and all Packages) under www.govcracker.org and unpack 
+Download the latest release (include GovTools and GovCracker and all Packages) under www.govcrack.com and unpack 
 (7z) it in the desired location. 
 
 
