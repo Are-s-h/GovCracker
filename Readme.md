@@ -45,12 +45,17 @@ external links, and returns a list of words which can then be used for password 
 **Hashcat** - Hashcat is the most popular and effective password cracker in the world. 
 It is used by law enforcement agencies, secret services and the military, as well as 
 penetration testers in the software industry.
+
+**Cryptocurrency Scanner (CS)** - CS can analyze IT evidence for indications regarding the use of cryptocurrencies. 
+
+**Encrypted-File-Scanner (EFS)** - EFS search for encrypted files.
+ 
 <br>
 <br>
 
 ## Operating System ##
 
-GovTools and GovCracker are developed for Windows 10 (64 Bit).
+GovTools and GovCracker are free and has been developed for Windows 10 (64-bit).
 
 
 ## License ##
