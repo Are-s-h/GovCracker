@@ -1,24 +1,22 @@
 
-### What is GovCracker and GovTools? ###
+## What is GovTools and GovCracker? ##
 
-**GovCracker** and **GovTools** are Graphical User Interfaces to control the world´s 
-best Cracking-Tools (e.g. Hashcat, John the Ripper, Bulk-Extractor, CeWL, PRINCE, 
-Maskprocessor and CUPP) for decryption passwords in digital evidence. 
+**GovTools** and **GovCracker** are Graphical User Interfaces to control the world´s 
+best Cracking-Tools like Hashcat, John the Ripper, Bulk-Extractor, CeWL, PRINCE, 
+Maskprocessor and CUPP for decryption passwords in digital evidence. 
 
-GovCracker was primarily developed for law enforcement agencies to decrypt volumes and 
-files in criminal investigations. 
+GovTools and GovCracker was primarily developed for law enforcement agencies to decrypt 
+volumes and files in criminal investigations. 
 
 
-
-### Which tools are integrated in GovCracker? ###
+## Which tools are integrated in GovCracker? ##
 
 **Hashcat** - Hashcat is the most popular and effective password cracker in the world. 
 It is used by law enforcement agencies, secret services and the military, as well as 
 penetration testers in the software industry.
 
 
-
-### Which tools are integrated in GovTools? ###
+## Which tools are integrated in GovTools? ##
 
 **John the Ripper** - JtR is a password cracker originally developed for UNIX-based 
 systems and first released in 1996. JtR includes a variety of tools for extracting 
@@ -39,14 +37,23 @@ external links, and returns a list of words which can then be used for password 
 **Maskprocessor** - Maskprocessor is a High-Performance word generator with a per-position configureable charset.
 
 
+## Installation ##
 
-### License ###
+Download the latest release (include GovTools and GovCracker and all Packages) under www.govcracker.org and unpack 
+(7z) it in the desired location. 
+
+
+## Operating System ##
+
+GovTools and GovCracker are developed for Windows 10 (64 Bit).
+
+
+## License ##
  
 GovTools is released under GPL 3.0 (Open-Source). 
 GovCracker is free proprietary software (Freeware).
 
-
-### Others ###
+## Others ##
 
 THE SOFTWARES ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
@@ -57,24 +64,3 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 No support or anything like that is offered.
-
-
-### Installation ###
-
-Download the latest release and unpack it in the desired location. Please remember to use 
-`7z x` when unpacking the archive from the command line to ensure full file paths remain intact.
-
-
-### Operating System ####
-
-GovTools and GovCracker are developed for Windows 10 (64 Bit).
-
-
-### Download Executable File ###
-
-7z Package (include GovTools and GovCracker and all Packages)
-
-
-### More Informations: ###
-
-www.GovCracker.com
