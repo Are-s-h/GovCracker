@@ -1,11 +1,17 @@
 
 ## What is GovTools and GovCracker? ##
 
-`GovTools` and `GovCracker` are graphical user interfaces (GUIs) to control the world´s 
-best Cracking-Tools like Hashcat, John the Ripper, Wordlister, CeWL, PRINCE, 
-Maskprocessor, CUPP, etc. for decryption passwords in digital evidence. GovTools and GovCracker 
-was primarily developed for law enforcement agencies to decrypt volumes and files like VeraCrypt,
-TrueCrypt, Bitlocker, 7z, ZIP, RAR, Office, APFS (Apple), LUKS, etc. in criminal investigations. 
+`GovTools` and `GovCracker` are the best Graphical-User-Interfaces (GUIs) 
+for controlling the world´s best Cracking-Tools like Hashcat, John the Ripper, 
+PRINCE, CeWL, Wordlister, CUPP, etc. to decrypt passwords in digital evidence, 
+e.g. VeraCrypt, TrueCrypt, Bitlocker, FileFault2 (Apple), LUKS (Linux), Bitcoin Wallets, 
+Ethereum Wallets, ZIP, RAR, 7z, PDF, Office and many more file formats.
+
+GovCracker can also scan the target person's computer for indications of the use of 
+cryptocurrencies.
+
+GovTools and GovCracker was created exclusively for law enforcement agencies to decrypt disks and files 
+during criminal investigations. GovTools and GovCracker are free and developed for Windows 10 (64 Bit). 
 
 ## Installation ##
 
@@ -17,6 +23,7 @@ Download the latest release (include GovTools and GovCracker and all Packages) u
 ## Which tools are integrated in GovTools? ##
 
 ![Screenshot](https://user-images.githubusercontent.com/73139495/170981613-e6b2c39e-9c20-4871-ad1d-5dd06bda9e4e.jpg)
+
 
 `John the Ripper` - JtR is a password cracker originally developed for UNIX-based 
 systems and first released in 1996. JtR includes a variety of tools for extracting 
@@ -47,11 +54,6 @@ penetration testers in the software industry.
 `Encrypted-File-Scanner (EFS)` - EFS search for encrypted files.
 <br>
 <br>
-
-## Operating System ##
-
-GovTools and GovCracker are free and has been developed for Windows 10 (64-bit).
-
 
 ## License ##
  
