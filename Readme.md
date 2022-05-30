@@ -2,8 +2,8 @@
 ## What is GovTools and GovCracker? ##
 
 `GovTools` and `GovCracker` are graphical user interfaces (GUIs) to control the world´s 
-best Cracking-Tools like `Hashcat`, `John the Ripper`, `Bulk-Extractor`, `CeWL`, `PRINCE`, 
-`Maskprocessor` and `CUPP` for decryption passwords in digital evidence. GovTools and GovCracker 
+best Cracking-Tools like Hashcat, John the Ripper, Bulk-Extractor, CeWL, PRINCE, 
+Maskprocessor and CUPP for decryption passwords in digital evidence. GovTools and GovCracker 
 was primarily developed for law enforcement agencies to decrypt volumes and files like VeraCrypt,
 TrueCrypt, Bitlocker, 7z, ZIP, RAR, Office, APFS (Apple), LUKS, etc. in criminal investigations. 
 
