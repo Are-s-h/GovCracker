@@ -6,6 +6,11 @@ best Cracking-Tools like Hashcat, John the Ripper, Bulk-Extractor, CeWL, PRINCE,
 Maskprocessor and CUPP for decryption passwords in digital evidence. GovTools and GovCracker 
 was primarily developed for law enforcement agencies to decrypt volumes and files in criminal 
 investigations. 
+
+## Installation ##
+
+Download the latest release (include GovTools and GovCracker and all Packages) under 
+`www.govcrack.com` and unpack (7z) it in the desired location. 
 <br>
 <br>
 
@@ -42,12 +47,6 @@ It is used by law enforcement agencies, secret services and the military, as wel
 penetration testers in the software industry.
 <br>
 <br>
-
-## Installation ##
-
-Download the latest release (include GovTools and GovCracker and all Packages) under 
-´www.govcrack.com´ and unpack (7z) it in the desired location. 
-
 
 ## Operating System ##
 
