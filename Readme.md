@@ -2,7 +2,7 @@
 ## What is GovTools and GovCracker? ##
 
 `GovTools` and `GovCracker` are graphical user interfaces (GUIs) to control the world´s 
-best Cracking-Tools like Hashcat, John the Ripper, Bulk-Extractor, CeWL, PRINCE, 
+best Cracking-Tools like Hashcat, John the Ripper, Wordlister, CeWL, PRINCE, 
 Maskprocessor, CUPP, etc. for decryption passwords in digital evidence. GovTools and GovCracker 
 was primarily developed for law enforcement agencies to decrypt volumes and files like VeraCrypt,
 TrueCrypt, Bitlocker, 7z, ZIP, RAR, Office, APFS (Apple), LUKS, etc. in criminal investigations. 
@@ -21,10 +21,6 @@ Download the latest release (include GovTools and GovCracker and all Packages) u
 `John the Ripper` - JtR is a password cracker originally developed for UNIX-based 
 systems and first released in 1996. JtR includes a variety of tools for extracting 
 password hashes.
-
-`Bulk Extractor` - BuEx is a forensics tool that scans a disk image, file, or directory 
-and extracts useful information without analyzing the file system or file system structures. 
-The tool is very powerful in creating Wordlists from unencrypted evidence from a target person.
 
 `PRINCE` + `Wordlister` + `CUPP` - PRINCE, Wordlister & CUPP creates wordlists with person-specific
 passphrases of a target person based on inputs, e.g. the nickname, name of the pet or the child's 
