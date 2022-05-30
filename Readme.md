@@ -49,7 +49,6 @@ penetration testers in the software industry.
 **Cryptocurrency Scanner (CS)** - CS can analyze IT evidence for indications regarding the use of cryptocurrencies. 
 
 **Encrypted-File-Scanner (EFS)** - EFS search for encrypted files.
- 
 <br>
 <br>
 
