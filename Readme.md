@@ -16,7 +16,7 @@ during criminal investigations. GovTools and GovCracker are free and developed f
 ## Installation ##
 
 Download the latest release (include GovTools and GovCracker and all Packages) under 
-[https://govcrack.com] and unpack (7z) it in the desired location. 
+[https://govcracker.org] and unpack (7z) it in the desired location. 
 <br>
 <br>
 
