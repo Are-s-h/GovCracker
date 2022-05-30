@@ -7,7 +7,8 @@ Maskprocessor and CUPP for decryption passwords in digital evidence.
 
 GovTools and GovCracker was primarily developed for law enforcement agencies to decrypt 
 volumes and files in criminal investigations. 
-
+<br>
+<br>
 
 ## Which tools are integrated in GovTools? ##
 
@@ -31,6 +32,8 @@ external links, and returns a list of words which can then be used for password 
 
 **Maskprocessor** - Maskprocessor is a High-Performance word generator with a per-position configureable charset.
 
+<br>
+<br>
 
 ## Which tools are integrated in GovCracker? ##
 
