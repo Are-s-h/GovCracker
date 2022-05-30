@@ -3,10 +3,9 @@
 
 **GovTools** and **GovCracker** are Graphical User Interfaces to control the world´s 
 best Cracking-Tools like Hashcat, John the Ripper, Bulk-Extractor, CeWL, PRINCE, 
-Maskprocessor and CUPP for decryption passwords in digital evidence. 
-
-GovTools and GovCracker was primarily developed for law enforcement agencies to decrypt 
-volumes and files in criminal investigations. 
+Maskprocessor and CUPP for decryption passwords in digital evidence. GovTools and GovCracker 
+was primarily developed for law enforcement agencies to decrypt volumes and files in criminal 
+investigations. 
 <br>
 <br>
 
@@ -31,7 +30,6 @@ numbers, and special characters.
 external links, and returns a list of words which can then be used for password crackers such as Hashcat.
 
 **Maskprocessor** - Maskprocessor is a High-Performance word generator with a per-position configureable charset.
-
 <br>
 <br>
 
@@ -42,12 +40,13 @@ external links, and returns a list of words which can then be used for password 
 **Hashcat** - Hashcat is the most popular and effective password cracker in the world. 
 It is used by law enforcement agencies, secret services and the military, as well as 
 penetration testers in the software industry.
-
+<br>
+<br>
 
 ## Installation ##
 
-Download the latest release (include GovTools and GovCracker and all Packages) under www.govcrack.com and unpack 
-(7z) it in the desired location. 
+Download the latest release (include GovTools and GovCracker and all Packages) under 
+´www.govcrack.com´ and unpack (7z) it in the desired location. 
 
 
 ## Operating System ##
