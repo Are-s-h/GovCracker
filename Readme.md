@@ -66,9 +66,9 @@ Download the latest release (include GovCracker and GovTools and all Packages) u
 It is used by law enforcement agencies, secret services and the military, as well as 
 penetration testers in the software industry.
 
-`Cryptocurrency Scanner (CS)` - CS can analyze IT evidence for indications regarding the use of cryptocurrencies. <br>
-`Encrypted-File-Scanner (EFS)` - EFS search for encrypted files.<br>
-`VC Hunter` - VCH search for encrypted Vera- or TrueCrypt files.<br>
+`Cryptocurrency Scanner (CS)` - CS can analyze IT evidence for indications regarding the use of cryptocurrencies. <br><br>
+`Encrypted-File-Scanner (EFS)` - EFS search for encrypted files.<br><br>
+`VC Hunter` - VCH search for encrypted Vera- or TrueCrypt files.<br><br>
 <br>
 <br>
 
