@@ -49,9 +49,9 @@ GovCracker can also scan the target person's computer for indications of the use
 cryptocurrencies.<br><br>
 
 ## Installation ##
-GovCracker is free and developed for Windows 10 (64 Bit). 
-Download the latest release (include GovCracker and GovTools and all Packages) under 
-[https://govcrack.com] and unpack (7z) it in the desired location. 
+GovCracker is free and developed for Windows 10 (64 Bit).<br> 
+Download the latest release (include GovCracker and GovTools and all Packages / 400MB) 
+under [https://govcrack.com] and unpack (7z) it in the desired location. 
 <br><br>
 
 ## Which tools are integrated in GovCracker? ##
