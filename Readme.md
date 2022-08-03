@@ -41,22 +41,19 @@ PRINCE, CeWL, Wordlister, CUPP, etc. to decrypt passwords in digital evidence, e
 :white_check_mark:VeraCrypt / TrueVrypt (Hidden Partition)<br>
 :white_check_mark:RAR<br>
 :white_check_mark:ZIP<br>
-<br>
-
-
-GovCracker can also scan the target person's computer for indications of the use of 
-cryptocurrencies.
-
+<br><br>
 GovCracker was created exclusively for law enforcement agencies to decrypt 
 disks and files during criminal investigations, Pentester and Digital Forensics Companys. 
-GovCracker is free and developed for Windows 10 (64 Bit). 
+
+## Utils ##
+GovCracker can also scan the target person's computer for indications of the use of 
+cryptocurrencies.<br><br>
 
 ## Installation ##
-
+GovCracker is free and developed for Windows 10 (64 Bit). 
 Download the latest release (include GovCracker and GovTools and all Packages) under 
 [https://govcrack.com] and unpack (7z) it in the desired location. 
-<br>
-<br>
+<br><br>
 
 ## Which tools are integrated in GovCracker? ##
 
@@ -69,7 +66,6 @@ penetration testers in the software industry.
 `Cryptocurrency Scanner (CS)` - CS can analyze IT evidence for indications regarding the use of cryptocurrencies. <br><br>
 `Encrypted-File-Scanner (EFS)` - EFS search for encrypted files.<br><br>
 `VC Hunter` - VCH search for encrypted Vera- or TrueCrypt files.<br><br>
-<br>
 <br>
 
 ## Which tools are integrated in GovTools? ##
