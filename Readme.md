@@ -1,7 +1,7 @@
 
 ## What is GovCracker? ##
 
-`GovCracker` is the best Wrapper and Graphical-User-Interfaces (GUIs) 
+`GovCracker` is the best Wrapper and Graphical-User-Interface (GUI) 
 for controlling the world´s best Cracking-Tools like Hashcat, John the Ripper, 
 PRINCE, CeWL, Wordlister, CUPP, etc. to decrypt passwords in digital evidence, e.g.:
 <br>
