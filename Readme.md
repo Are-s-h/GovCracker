@@ -5,7 +5,6 @@
 for controlling the world´s best Cracking-Tools like Hashcat, John the Ripper, 
 PRINCE, CeWL, Wordlister, CUPP, etc. to decrypt passwords in digital evidence, e.g.:
 <br>
-<br>
 
 ### Windows <br>
 :white_check_mark:Bitlocker<br>
