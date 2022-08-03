@@ -66,9 +66,9 @@ Download the latest release (include GovCracker and GovTools and all Packages) u
 It is used by law enforcement agencies, secret services and the military, as well as 
 penetration testers in the software industry.
 
-`Cryptocurrency Scanner (CS)` - CS can analyze IT evidence for indications regarding the use of cryptocurrencies. 
-`Encrypted-File-Scanner (EFS)` - EFS search for encrypted files.
-`VC Hunter` - VCH search for encrypted Vera- or TrueCrypt files.
+`Cryptocurrency Scanner (CS)` - CS can analyze IT evidence for indications regarding the use of cryptocurrencies. <br>
+`Encrypted-File-Scanner (EFS)` - EFS search for encrypted files.<br>
+`VC Hunter` - VCH search for encrypted Vera- or TrueCrypt files.<br>
 <br>
 <br>
 
@@ -79,15 +79,15 @@ penetration testers in the software industry.
 
 `John the Ripper` - JtR is a password cracker originally developed for UNIX-based 
 systems and first released in 1996. JtR includes a variety of tools for extracting 
-password hashes.
+password hashes.<br>
 
 `PRINCE` + `Wordlister` + `CUPP` - PRINCE, Wordlister & CUPP creates wordlists with person-specific
 passphrases of a target person based on inputs, e.g. the nickname, name of the pet or the child's 
 date of birth. It is based on the assumption that many passwords are a combination of passphrases, 
-numbers, and special characters.
+numbers, and special characters.<br>
 
 `CeWL` - CeWL is a ruby app which spiders a given URL to a specified depth, optionally following 
-external links, and returns a list of words which can then be used for password crackers such as Hashcat.
+external links, and returns a list of words which can then be used for password crackers such as Hashcat.<br>
 
 `Maskprocessor` - Maskprocessor is a High-Performance word generator with a per-position configureable charset.
 <br>
