@@ -1,17 +1,20 @@
 
-## What is GovTools and GovCracker? ##
+## What is GovCracker and GovTools? ##
 
-`GovTools` and `GovCracker` are the best Graphical-User-Interfaces (GUIs) 
+`GovCracker` is the best Wrapper and Graphical-User-Interfaces (GUIs) 
 for controlling the world´s best Cracking-Tools like Hashcat, John the Ripper, 
-PRINCE, CeWL, Wordlister, CUPP, etc. to decrypt passwords in digital evidence, 
-e.g. VeraCrypt, TrueCrypt, Bitlocker, FileFault2 (Apple), LUKS (Linux), Bitcoin Wallets, 
-Ethereum Wallets, ZIP, RAR, 7z, PDF, Office and many more file formats.
+PRINCE, CeWL, Wordlister, CUPP, etc. to decrypt passwords in digital evidence, e.g.:
+:white_check_mark: VeraCrypt
+, TrueCrypt, Bitlocker, FileFault2 (Apple), LUKS (Linux), Bitcoin Wallets, 
+Exodus Wallets, MetaMask Wallets, Ethereum Wallets, Firefox Masterpassword, ZIP, RAR, 7z, 
+PDF, Office and many more file formats.
 
 GovCracker can also scan the target person's computer for indications of the use of 
 cryptocurrencies.
 
-GovTools and GovCracker was created exclusively for law enforcement agencies to decrypt disks and files 
-during criminal investigations. GovTools and GovCracker are free and developed for Windows 10 (64 Bit). 
+GovTools and GovCracker was created exclusively for law enforcement agencies to decrypt 
+disks and files during criminal investigations, Pentester and Digital Forensics Institute. 
+GovTools and GovCracker are free and developed for Windows 10 (64 Bit). 
 
 ## Installation ##
 
