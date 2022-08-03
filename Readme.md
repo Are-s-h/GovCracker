@@ -1,5 +1,5 @@
 
-## What is GovCracker and GovTools? ##
+## What is GovCracker? ##
 
 `GovCracker` is the best Wrapper and Graphical-User-Interfaces (GUIs) 
 for controlling the world´s best Cracking-Tools like Hashcat, John the Ripper, 
@@ -7,20 +7,20 @@ PRINCE, CeWL, Wordlister, CUPP, etc. to decrypt passwords in digital evidence, e
 <br>
 <br>
 
-### Windows ###<br>
+### Windows <br>
 :white_check_mark:Bitlocker<br>
 :white_check_mark:Windows Login Password<br>
 
-### Apple ###<br>
+### Apple <br>
 :white_check_mark:APFS (Apple MacBooks)<br>
 :white_check_mark:iTunes Backup (iPhone)<br>
 
-### Linux ###<br>
+### Linux <br>
 :white_check_mark:eCryptfs<br>
 :white_check_mark:Linux Login Password<br>
 :white_check_mark:LUKS (Linux Unified Key System)<br>
 
-### Cryptocurrency Wallets ###<br>
+### Cryptocurrency Wallets <br>
 :white_check_mark:Bitcoin-Wallet<br>
 :white_check_mark:Electrum-Wallet<br>
 :white_check_mark:Ethereum (MyEtherWallet.com / Keystore-File)<br>
@@ -28,12 +28,12 @@ PRINCE, CeWL, Wordlister, CUPP, etc. to decrypt passwords in digital evidence, e
 :white_check_mark:Litecoin-Wallet<br>
 :white_check_mark:MetaMask-Wallet<br>
 
-### Documents ###<br>
+### Documents <br>
 :white_check_mark:LibreOffice<br>
 :white_check_mark:Office (Word, Excel, etc.)<br>
 :white_check_mark:PDF<br>
 
-### Other Encryption ###<br>
+### Other Encryption <br>
 :white_check_mark:7zip<br>
 :white_check_mark:Mozilla-Firefox (Master Password)<br>
 :white_check_mark:VeraCrypt / TrueCrypt (File)<br>
@@ -47,14 +47,28 @@ PRINCE, CeWL, Wordlister, CUPP, etc. to decrypt passwords in digital evidence, e
 GovCracker can also scan the target person's computer for indications of the use of 
 cryptocurrencies.
 
-GovTools and GovCracker was created exclusively for law enforcement agencies to decrypt 
-disks and files during criminal investigations, Pentester and Digital Forensics Institute. 
-GovTools and GovCracker are free and developed for Windows 10 (64 Bit). 
+GovCracker was created exclusively for law enforcement agencies to decrypt 
+disks and files during criminal investigations, Pentester and Digital Forensics Companys. 
+GovCracker is free and developed for Windows 10 (64 Bit). 
 
 ## Installation ##
 
-Download the latest release (include GovTools and GovCracker and all Packages) under 
-[https://govcracker.org] and unpack (7z) it in the desired location. 
+Download the latest release (include GovCracker and GovTools and all Packages) under 
+[https://govcrack.com] and unpack (7z) it in the desired location. 
+<br>
+<br>
+
+## Which tools are integrated in GovCracker? ##
+
+![Screenshot](https://user-images.githubusercontent.com/73139495/170981632-97cd2ff6-cf4e-4b17-9094-f6de400f1ef5.jpg)
+
+`Hashcat` - Hashcat is the most popular and effective password cracker in the world. 
+It is used by law enforcement agencies, secret services and the military, as well as 
+penetration testers in the software industry.
+
+`Cryptocurrency Scanner (CS)` - CS can analyze IT evidence for indications regarding the use of cryptocurrencies. 
+`Encrypted-File-Scanner (EFS)` - EFS search for encrypted files.
+`VC Hunter` - VCH search for encrypted Vera- or TrueCrypt files.
 <br>
 <br>
 
@@ -76,20 +90,6 @@ numbers, and special characters.
 external links, and returns a list of words which can then be used for password crackers such as Hashcat.
 
 `Maskprocessor` - Maskprocessor is a High-Performance word generator with a per-position configureable charset.
-<br>
-<br>
-
-## Which tools are integrated in GovCracker? ##
-
-![Screenshot](https://user-images.githubusercontent.com/73139495/170981632-97cd2ff6-cf4e-4b17-9094-f6de400f1ef5.jpg)
-
-`Hashcat` - Hashcat is the most popular and effective password cracker in the world. 
-It is used by law enforcement agencies, secret services and the military, as well as 
-penetration testers in the software industry.
-
-`Cryptocurrency Scanner (CS)` - CS can analyze IT evidence for indications regarding the use of cryptocurrencies. 
-
-`Encrypted-File-Scanner (EFS)` - EFS search for encrypted files.
 <br>
 <br>
 
