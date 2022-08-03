@@ -5,21 +5,21 @@
 for controlling the world´s best Cracking-Tools like Hashcat, John the Ripper, 
 PRINCE, CeWL, Wordlister, CUPP, etc. to decrypt passwords in digital evidence, e.g.:
 <br>
-:white_check_mark: VeraCrypt
-:white_check_mark: TrueCrypt
-:white_check_mark: Bitlocker
-:white_check_mark: FileFault2 (Apple)
-:white_check_mark: LUKS (Linux)
-:white_check_mark: Bitcoin Wallets 
-:white_check_mark: Exodus Wallets 
-:white_check_mark: MetaMask Wallets
-:white_check_mark: Ethereum Wallets
-:white_check_mark: Firefox Masterpassword
-:white_check_mark: ZIP
-:white_check_mark: RAR
-:white_check_mark: 7z 
-:white_check_mark: PDF
-:white_check_mark: Office 
+:white_check_mark: VeraCrypt <br>
+:white_check_mark: TrueCrypt <br>
+:white_check_mark: Bitlocker <br>
+:white_check_mark: FileFault2 (Apple) <br>
+:white_check_mark: LUKS (Linux) <br>
+:white_check_mark: Bitcoin Wallets <br>
+:white_check_mark: Exodus Wallets <br>
+:white_check_mark: MetaMask Wallets <br>
+:white_check_mark: Ethereum Wallets <br>
+:white_check_mark: Firefox Masterpassword <br>
+:white_check_mark: ZIP <br>
+:white_check_mark: RAR <br>
+:white_check_mark: 7z <br>
+:white_check_mark: PDF <br>
+:white_check_mark: Office <br>
 and many more file formats.
 
 GovCracker can also scan the target person's computer for indications of the use of 
