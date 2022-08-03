@@ -5,22 +5,44 @@
 for controlling the world´s best Cracking-Tools like Hashcat, John the Ripper, 
 PRINCE, CeWL, Wordlister, CUPP, etc. to decrypt passwords in digital evidence, e.g.:
 <br>
-:white_check_mark: VeraCrypt <br>
-:white_check_mark: TrueCrypt <br>
-:white_check_mark: Bitlocker <br>
-:white_check_mark: FileFault2 (Apple) <br>
-:white_check_mark: LUKS (Linux) <br>
-:white_check_mark: Bitcoin Wallets <br>
-:white_check_mark: Exodus Wallets <br>
-:white_check_mark: MetaMask Wallets <br>
-:white_check_mark: Ethereum Wallets <br>
-:white_check_mark: Firefox Masterpassword <br>
-:white_check_mark: ZIP <br>
-:white_check_mark: RAR <br>
-:white_check_mark: 7z <br>
-:white_check_mark: PDF <br>
-:white_check_mark: Office <br>
-and many more file formats.
+<br>
+
+### Windows ###<br>
+:white_check_mark:Bitlocker<br>
+:white_check_mark:Windows Login Password<br>
+
+### Apple ###<br>
+:white_check_mark:APFS (Apple MacBooks)<br>
+:white_check_mark:iTunes Backup (iPhone)<br>
+
+### Linux ###<br>
+:white_check_mark:eCryptfs<br>
+:white_check_mark:Linux Login Password<br>
+:white_check_mark:LUKS (Linux Unified Key System)<br>
+
+### Cryptocurrency Wallets ###<br>
+:white_check_mark:Bitcoin-Wallet<br>
+:white_check_mark:Electrum-Wallet<br>
+:white_check_mark:Ethereum (MyEtherWallet.com / Keystore-File)<br>
+:white_check_mark:Exodus-Wallet<br>
+:white_check_mark:Litecoin-Wallet<br>
+:white_check_mark:MetaMask-Wallet<br>
+
+### Documents ###<br>
+:white_check_mark:LibreOffice<br>
+:white_check_mark:Office (Word, Excel, etc.)<br>
+:white_check_mark:PDF<br>
+
+### Other Encryption ###<br>
+:white_check_mark:7zip<br>
+:white_check_mark:Mozilla-Firefox (Master Password)<br>
+:white_check_mark:VeraCrypt / TrueCrypt (File)<br>
+:white_check_mark:VeraCrypt / TrueCrypt (Partition)<br>
+:white_check_mark:VeraCrypt / TrueVrypt (Hidden Partition)<br>
+:white_check_mark:RAR<br>
+:white_check_mark:ZIP<br>
+<br>
+
 
 GovCracker can also scan the target person's computer for indications of the use of 
 cryptocurrencies.
