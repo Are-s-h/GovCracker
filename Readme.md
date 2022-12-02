@@ -49,7 +49,7 @@ PRINCE, CeWL, Wordlister or CUPP to decrypt passwords in digital evidence, e.g.:
 It is used by law enforcement agencies, secret services and the military, as well as penetration testers in the software industry.
 <br><br>
 
-## ############################################################## ##
+##  ##
 
 ## GovTools ##
 
