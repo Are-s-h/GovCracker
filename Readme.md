@@ -42,7 +42,6 @@ PRINCE, CeWL, Wordlister or CUPP to decrypt passwords in digital evidence, e.g.:
 <br><br>
 
 ##  ##
-
 ## Which tools are integrated in GovCracker? ##
 
 ![Screenshot](https://user-images.githubusercontent.com/73139495/205282935-f60dfd72-de59-4cce-a8f8-4d9189313fe2.jpg)
@@ -52,7 +51,6 @@ It is used by law enforcement agencies, secret services and the military, as wel
 <br><br>
 
 ##  ##
-
 ## GovTools ##
 
 ![Screenshot](https://user-images.githubusercontent.com/73139495/205282927-fc238c58-44c3-40d4-884b-234a15a6c95a.jpg)
@@ -75,7 +73,6 @@ external links, and returns a list of words which can then be used for password 
 <br>
 
 ##  ##
-
 ## GovCrypto ##
 
 ![Screenshot](https://user-images.githubusercontent.com/73139495/205282948-ff67d331-bec6-458d-8c25-fb6d17d12614.jpg)
