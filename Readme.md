@@ -29,14 +29,14 @@ PRINCE, CeWL, Wordlister or CUPP to decrypt passwords in digital evidence, e.g.:
 :white_check_mark:MulitBit-Wallet<br>
 
 ### Documents <br>
-:white_check_mark:LibreOffice<br>
+:white_check_mark:LibreOffice / OpenOffice<br>
 :white_check_mark:Office (Word, Excel, etc.)<br>
 :white_check_mark:PDF<br>
 
 ### Other Encryption <br>
 :white_check_mark:7zip<br>
 :white_check_mark:Mozilla-Firefox (Master Password)<br>
-:white_check_mark:VeraCrypt / TrueCrypt (File)<br>
+:white_check_mark:VeraCrypt / TrueCrypt (File / Container)<br>
 :white_check_mark:VeraCrypt / TrueCrypt (Partition)<br>
 :white_check_mark:VeraCrypt / TrueVrypt (Hidden Partition)<br>
 :white_check_mark:RAR<br>
