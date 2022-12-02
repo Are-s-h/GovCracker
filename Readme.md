@@ -1,8 +1,7 @@
 
 ## What is GovCracker? ##
 
-`GovCracker` is the best Wrapper and Graphical-User-Interface (GUI) 
-for controlling the world´s best Cracking-Tools like Hashcat, John the Ripper, 
+`GovCracker` is the best Wrapper for controlling the world´s best Cracking-Tools like Hashcat, John the Ripper, 
 PRINCE, CeWL, Wordlister, CUPP, etc. to decrypt passwords in digital evidence, e.g.:
 <br>
 
@@ -42,11 +41,7 @@ PRINCE, CeWL, Wordlister, CUPP, etc. to decrypt passwords in digital evidence, e
 :white_check_mark:ZIP<br>
 <br><br>
 GovCracker was created exclusively for law enforcement agencies to decrypt 
-disks and files during criminal investigations, Pentester and Digital Forensics Companys. 
-
-## Utils ##
-GovCracker can also scan the target person's computer for indications of the use of 
-cryptocurrencies.<br><br>
+disks and files during criminal investigations. 
 
 ## Installation ##
 GovCracker is free and developed for Windows 10 (64 Bit).<br> 
@@ -56,20 +51,16 @@ under [https://govcrack.com] and unpack (7z) it in the desired location.
 
 ## Which tools are integrated in GovCracker? ##
 
-![Screenshot](https://user-images.githubusercontent.com/73139495/170981632-97cd2ff6-cf4e-4b17-9094-f6de400f1ef5.jpg)
+![Screenshot](https://user-images.githubusercontent.com/73139495/205282935-f60dfd72-de59-4cce-a8f8-4d9189313fe2.jpg)
 
 `Hashcat` - Hashcat is the most popular and effective password cracker in the world. 
-It is used by law enforcement agencies, secret services and the military, as well as 
-penetration testers in the software industry.
+It is used by law enforcement agencies, secret services and the military, as well as penetration testers in the software industry.
 
-`Cryptocurrency Scanner (CS)` - CS can analyze IT evidence for indications regarding the use of cryptocurrencies. <br><br>
-`Encrypted-File-Scanner (EFS)` - EFS search for encrypted files.<br><br>
-`VC Hunter` - VCH search for encrypted Vera- or TrueCrypt files.<br><br>
 <br>
 
 ## Which tools are integrated in GovTools? ##
 
-![Screenshot](https://user-images.githubusercontent.com/73139495/170981613-e6b2c39e-9c20-4871-ad1d-5dd06bda9e4e.jpg)
+![Screenshot](https://user-images.githubusercontent.com/73139495/205282927-fc238c58-44c3-40d4-884b-234a15a6c95a.jpg)
 
 
 `John the Ripper` - JtR is a password cracker originally developed for UNIX-based 
@@ -87,6 +78,10 @@ external links, and returns a list of words which can then be used for password 
 `Maskprocessor` - Maskprocessor is a High-Performance word generator with a per-position configureable charset.
 <br>
 <br>
+
+## GovCrypto ##
+GovCracker can also scan the target person's computer for indications of the use of 
+cryptocurrencies.<br><br>
 
 ## License ##
  
