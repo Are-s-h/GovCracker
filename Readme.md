@@ -20,11 +20,13 @@ PRINCE, CeWL, Wordlister or CUPP to decrypt passwords in digital evidence, e.g.:
 
 ### Cryptocurrency Wallets <br>
 :white_check_mark:Bitcoin-Wallet<br>
+:white_check_mark:Dogecoin-Wallet<br>
 :white_check_mark:Electrum-Wallet<br>
 :white_check_mark:Ethereum (MyEtherWallet.com / Keystore-File)<br>
 :white_check_mark:Exodus-Wallet<br>
 :white_check_mark:Litecoin-Wallet<br>
 :white_check_mark:MetaMask-Wallet<br>
+:white_check_mark:MulitBit-Wallet<br>
 
 ### Documents <br>
 :white_check_mark:LibreOffice<br>
