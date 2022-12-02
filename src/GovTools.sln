@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "GovTools", "GovTools.vbproj", "{9ADFB094-AEBF-441E-9A25-0A331EE8BD48}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9ADFB094-AEBF-441E-9A25-0A331EE8BD48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9ADFB094-AEBF-441E-9A25-0A331EE8BD48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9ADFB094-AEBF-441E-9A25-0A331EE8BD48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9ADFB094-AEBF-441E-9A25-0A331EE8BD48}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {260D259C-6910-44FA-A8BE-DB3702F923F7}
+	EndGlobalSection
+EndGlobal
