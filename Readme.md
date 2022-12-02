@@ -83,7 +83,7 @@ GovCrypto scans the target person's computer or server for indications of the us
 cryptocurrencies.<br><br>
 
 ## Installation ##
-GovCracker, GovTools and GovCrypto are developed for Windows 10 (64 Bit).Download the latest release 
+GovCracker, GovTools and GovCrypto are developed for Windows 10 (64 Bit). Download the latest release 
 (include GovCracker, GovTools, GovCrypto and all Packages / 400MB) under [https://govcracker.com] and unpack
 (7z) it in the desired location. <br><br>
 GovCracker was created exclusively for law enforcement agencies to decrypt 
