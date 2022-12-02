@@ -89,7 +89,7 @@ disks and files during criminal investigations.
 
 ## License ##
  
-GovTools is released under GPL 3.0 (Open-Source).<br> 
+GovTools is released under GPLv3 (Open-Source).<br> 
 GovCracker and GovCrypto are free proprietary software (Freeware).
 
 ## Others ##
